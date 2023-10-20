@@ -1,0 +1,14 @@
+
+
+function calculaArea(altura, base) {
+  let area = altura * base
+}
+
+let altura = prompt ("qual o valor da altura em cm?");
+altura = parseInt(altura);
+
+let base = prompt ("qual o valor da base em cm?");
+base = parseInt(base);
+
+let area = calculaArea(altura, base);
+alert("o valor da área é: " + area + "cm²");
