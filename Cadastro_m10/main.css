@@ -1,0 +1,16 @@
+.form-campo {
+    margin: 16px 0;
+}
+
+.form-campo label {
+    font-weight: bold;
+    display: block;
+    }
+
+
+.form-campo input{
+    width: 25%;
+    display: block;
+    padding: 8px;
+}
+    
